@@ -22,3 +22,5 @@ If you are willing to help with anything related to this, feel free to dm me on 
 
 # Credits
 Bence Szabó
+
+Last updated: 2025 January 16 22:20 PM CET
